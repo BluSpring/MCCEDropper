@@ -1,0 +1,20 @@
+name: MCCEDropper
+main: xyz.bluspring.mccedropper.Main
+version: 1.0-SNAPSHOT
+depend:
+  - WorldEdit
+  - CommandAPI
+  - PlaceholderAPI
+permissions:
+  mccedropper.admin:
+    description: Excludes admins from getting teleported.
+    default: op
+description: Hi chat, follow BluSpring on Twitch, since you went ahead and wanted to look at this >:)
+author: BluSpring
+api-version: 1.16
+#commands:
+  #level:
+    #description: Dropper level setup commands.
+    #permission: mccedropper.admin
+    #permission-message: "§cWhat poor soul told you this would work? :)"
+    #usage: "§cUsage : §e/level <create/delete/[id]> <rename/tp/setplatform/setremaining/setinfo/start/stop>"

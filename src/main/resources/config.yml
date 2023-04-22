@@ -1,0 +1,8 @@
+configVersion: 2 # DO NOT CHANGE
+lobby:
+  x: 0
+  y: 5
+  z: 0
+  yaw: 0.0
+  pitch: 0.0
+  world: world
